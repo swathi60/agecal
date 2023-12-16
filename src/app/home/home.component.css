@@ -1,0 +1,9 @@
+.active{
+    border-bottom: 2px solid rgb(43, 226, 64);
+    transform: scale(1.1);
+    transition: border-bottom 0.3s ease, color 0.3s ease, transform 0.3s ease; 
+}
+
+.name1{
+    color: rgb(85, 255, 0); letter-spacing: 0.02em; font-size: 1.2em;
+}
